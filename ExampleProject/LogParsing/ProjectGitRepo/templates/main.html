@@ -1,0 +1,52 @@
+<html>
+	<head>
+		<title>Wierd Mathematical Function</title>
+		<style>
+			body {
+				background: url(/get_file/images/qbist_background.png);
+			}
+			table {
+				background: #ffffff;
+			}
+		</style>
+	</head>
+	<body>
+		<form action="/do_math", method="post">
+			Enter a number:<input name="value_x">
+			<input type="submit" value="Calculate sequence">
+		</form>
+		<form action="/do_comment", method="post">
+			<table>
+				<tr>
+					<td>
+						Tell us what you think of this website:
+					</td>
+					<td>
+						<textarea name="comment_text"></textarea>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						Username:
+					</td>
+					<td>
+						<input name="username">
+					</td>
+				</tr>
+				<tr>
+					<td>
+						Password:
+					</td>
+					<td>
+						<input name="password" type="password">
+					</td>
+				</tr>
+			</table>
+			<input type="submit" value="Post comment">
+		</form>
+		<div id="CommentSection">
+			<h2>Comments:</h2>
+			{{table_comments|safe}}
+		</div>
+	</body>
+</html>
