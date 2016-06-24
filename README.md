@@ -1,2 +1,2 @@
-# SecurityReportWhitepaper
-Contains code examples discussed in the whitepaper: A Tool for Security Focused Continuous Integration (June 2016)
+# SecureContinuousIntegration
+Contains code examples discussed in the paper: A Tool for Security Focused Continuous Integration, submitted to SCAM 2016.
