@@ -1,2 +1,2 @@
 # SecureContinuousIntegration
-Contains code examples discussed in the paper: A Tool for Security Focused Continuous Integration, submitted to ICSE 2017.
+Contains code examples discussed in the paper: A Tool for Security Focused Continuous Integration, submitted to a conference and currently under review.
