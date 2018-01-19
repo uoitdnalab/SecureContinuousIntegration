@@ -1,3 +1,6 @@
+#This file is part of Security Focused Continuous Integration (SFCI)
+#Submitted to Journal of Software: Evolution and Process
+
 ROOT_DIR=$(pwd)
 
 #First compile the needed C program...
