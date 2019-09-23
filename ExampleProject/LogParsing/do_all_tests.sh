@@ -1,5 +1,5 @@
 #This file is part of Security Focused Continuous Integration (SFCI)
-#Submitted to Journal of Software: Evolution and Process
+#Submitted to MDPI Computers
 
 ROOT_DIR=$(pwd)
 
