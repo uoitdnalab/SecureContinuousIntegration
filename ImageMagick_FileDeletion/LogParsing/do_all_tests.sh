@@ -1,5 +1,5 @@
 #This file is part of Security Focused Continuous Integration (SFCI)
-#Submitted to Journal of Software: Evolution and Process
+#Submitted to MDPI Computers
 
 #Run the first test case
 ./ProjectTests/test-001-path_traversal.sh
